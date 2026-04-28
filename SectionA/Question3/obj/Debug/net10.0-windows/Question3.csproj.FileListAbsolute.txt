@@ -1,0 +1,14 @@
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question3\obj\Debug\net10.0-windows\Question3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question3\obj\Debug\net10.0-windows\Question3.AssemblyInfoInputs.cache
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question3\obj\Debug\net10.0-windows\Question3.AssemblyInfo.cs
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question3\obj\Debug\net10.0-windows\Question3.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question3\bin\Debug\net10.0-windows\Question3.exe
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question3\bin\Debug\net10.0-windows\Question3.deps.json
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question3\bin\Debug\net10.0-windows\Question3.runtimeconfig.json
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question3\bin\Debug\net10.0-windows\Question3.dll
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question3\bin\Debug\net10.0-windows\Question3.pdb
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question3\obj\Debug\net10.0-windows\Question3.dll
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question3\obj\Debug\net10.0-windows\refint\Question3.dll
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question3\obj\Debug\net10.0-windows\Question3.pdb
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question3\obj\Debug\net10.0-windows\Question3.genruntimeconfig.cache
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question3\obj\Debug\net10.0-windows\ref\Question3.dll

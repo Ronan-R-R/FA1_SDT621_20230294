@@ -1,0 +1,14 @@
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question2\bin\Debug\net10.0\Question2.exe
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question2\bin\Debug\net10.0\Question2.deps.json
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question2\bin\Debug\net10.0\Question2.runtimeconfig.json
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question2\bin\Debug\net10.0\Question2.dll
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question2\bin\Debug\net10.0\Question2.pdb
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question2\obj\Debug\net10.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question2\obj\Debug\net10.0\Question2.AssemblyInfoInputs.cache
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question2\obj\Debug\net10.0\Question2.AssemblyInfo.cs
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question2\obj\Debug\net10.0\Question2.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question2\obj\Debug\net10.0\Question2.dll
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question2\obj\Debug\net10.0\refint\Question2.dll
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question2\obj\Debug\net10.0\Question2.pdb
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question2\obj\Debug\net10.0\Question2.genruntimeconfig.cache
+C:\Users\Ronan\Documents\CTU\FA1_SDT621_20230294\Question2\obj\Debug\net10.0\ref\Question2.dll
